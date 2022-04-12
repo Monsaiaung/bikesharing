@@ -12,6 +12,7 @@ This chart shows the the peak starting hours of when people use the bikes. As ex
 
 ### Rides by Gender 
 ![Gender](https://github.com/Monsaiaung/bikesharing/blob/5383cf93ba50294488ce669a2d115e4b35468086/Images/Gender.png)
+
 This pie chart shows who use Citibike by Gender. About 65% of them are Male, 25% Female, and 10% Unknown. 
 
 ### Checkout Times for Users
